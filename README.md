@@ -2,7 +2,7 @@
 
 Execute the file and copy the address to the text bar
 
-[<img src="exp.jpg" width="250"/>](exp.jpg)
+[<img src="exp.jpg" width="300"/>](exp.jpg)
 
 Necessary python packages :
 
