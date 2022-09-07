@@ -2,7 +2,7 @@
 
 Execute the file and copy the address to the text bar
 
-![Example](exp.jpg)
+![Example](exp.jpg = 100x20)
 
 Necessary python packages :
 
